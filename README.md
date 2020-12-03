@@ -1,6 +1,6 @@
 # Gutenberg Search
 
-A utiility to search ebooks in Project Gutenberg.
+A utility to search ebooks in Project Gutenberg.
 
 ## Usage
 
